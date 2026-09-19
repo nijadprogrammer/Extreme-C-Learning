@@ -1,5 +1,5 @@
 #include <stdio.h>
-#include "ExtremeC_examples_chapter2_1.h"
+#include "chap2-ex1-header.h"
 
 int main(int argc, char** argv) {
     
