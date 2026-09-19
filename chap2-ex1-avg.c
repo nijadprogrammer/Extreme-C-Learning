@@ -1,4 +1,4 @@
-#include "ExtremeC_examples_chapter2_1.h"
+#include "chap2-ex1-header.h"
 
 double avg(int* array, int length, average_type_t type) {
     
